@@ -922,9 +922,49 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
         type: 3}
+      propertyPath: ballSounds.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
       propertyPath: paddle
       value: 
       objectReference: {fileID: 1158104796}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: ballSounds.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 2d5a76ffa89594a1684aac33d2e35111, type: 3}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: ballSounds.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 31e7af8b053824e0583d347927259c09, type: 3}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: ballSounds.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: 4a64bb04933bb4bd4901dd831b671fbc, type: 3}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: ballSounds.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: 573d41e29e70d42c288559be1107889d, type: 3}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: ballSounds.Array.data[4]
+      value: 
+      objectReference: {fileID: 8300000, guid: c8fa2a6a632bf4420997390eeb6afed6, type: 3}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: initialVelY
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5851081061696352958, guid: ddb1c32045e5746eb9aebeae03190361,
+        type: 3}
+      propertyPath: initialVelX
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ddb1c32045e5746eb9aebeae03190361, type: 3}
 --- !u!1001 &972833306
