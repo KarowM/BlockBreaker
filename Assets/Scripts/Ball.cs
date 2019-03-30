@@ -21,7 +21,6 @@ public class Ball : MonoBehaviour {
     }
 
     void Update() {
-        Debug.Log(initialVelX);
         if (!hasStarted) {
             LockBallToPaddle();
             LaunchOnClick();
